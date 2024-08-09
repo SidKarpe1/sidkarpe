@@ -1,0 +1,28 @@
+.body1{
+    border-radius:5px;
+    background-color: rgb(255, 186, 96);
+    padding: 30px;
+    height:15vh;
+    width:15vw;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    margin:2%;
+
+}
+
+.body1:hover{
+    box-shadow: 0px 8px 28px rgb(252, 169, 61);
+
+}
+
+.body1 img{
+    width:5vw;
+    height: 15vh;
+}
+
+.main{
+    flex-wrap:wrap;
+    display:flex;
+    justify-content: center;
+}

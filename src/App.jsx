@@ -29,8 +29,8 @@ function App() {
         </div>
         <div> 
           <ul>
-            <li><a href="https://www.linkedin.com/in/sid-karpe-03589a216/">Linkedin</a></li>
-            <li><a href="https://google.com">Resume</a></li>
+            <li><a href="https://www.linkedin.com/in/sidkarpe/">Linkedin</a></li>
+            <li><a href="/Resume1.pdf">Resume</a></li>
             <li><a href="https://github.com/SidKarpe1">Github</a></li>
           </ul>
         </div>
